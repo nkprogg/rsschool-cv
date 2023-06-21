@@ -27,3 +27,13 @@ function pow(x, n) {
     return result;
 }
 ```
+
+## __Experience__
+3 month of self-studying
+
+## __Education__ 
+Belarusian State Economic University
+
+## __Languages__
+- __Russian__ - native speaker
+- __English__ - A2

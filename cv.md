@@ -1,0 +1,12 @@
+# __[rsschool-cv](https://nkprogg.github.io/rsschool-cv/)__
+
+# __Natallia Kapitan__
+
+## __Contact Info__
+- __Address:__ Minsk, Belarus
+- __Phone:__ +375 29 374 20 35
+- __Email:__ natallia.kapitann@gmail.com
+- __GitHub:__ [nkprogg](https://github.com/nkprogg)
+
+## __About Me__
+Hi there! I`m responsible, motivated and sociable person. Want to improve my programming skills and become a frontend developer.

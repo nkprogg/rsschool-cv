@@ -4,7 +4,7 @@
 
 ## __Contact Info__
 - __Address:__ Minsk, Belarus
-- __Phone:__ +375 29 374 20 35
+- __Phone:__ +375 29 374 ** **
 - __Email:__ natallia.kapitann@gmail.com
 - __GitHub:__ [nkprogg](https://github.com/nkprogg)
 
@@ -29,7 +29,7 @@ function pow(x, n) {
 ```
 
 ## __Experience__
-3 month of self-studying
+6 month of self-studying
 
 ## __Education__ 
 Belarusian State Economic University

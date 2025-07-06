@@ -124,7 +124,7 @@ body {
   letter-spacing: 5px;
 }
 .main__photo {
-  width: 150px;
+  /* width: 150px; */
   height: 259.5px;
   border-radius: 20px;
 }
